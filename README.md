@@ -3,8 +3,9 @@ Repository for Development of SLIT
 
 
 
-Contributing
+# Contributing
 If you would like to contribute to this project by modifying/adding to the program code or various creative assets, feel free to follow the standard Github workflow:
+
 1. Fork the project.
 2. Clone your fork to your computer.
 3. Create a branch for your new feature.
